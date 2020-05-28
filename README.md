@@ -1,5 +1,6 @@
 # 2uzd-2
 Nauja antros užduoties repozicija
+
 Programa surūšiuoja studentus į 2 grupes: išlaikiusius ir neišlaikiusius, ir įrašo rezultatus į atskirus .txt failus.
 
 ## Įdiegimas (Unix kompiuteryje) naudojant `gcc` kompiliatorių 
