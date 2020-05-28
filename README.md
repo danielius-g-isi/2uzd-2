@@ -1,4 +1,5 @@
 # 2uzd-2
+Struktūros pakeistos klasėmis.
 Nauja antros užduoties repozicija
 - Naudojant struct 1000000 studentų nuskaitymas ir surūšiavimas užtruko: 40474 ms
 - Naudojant class 1000000 studentų nuskaitymas ir surūšiavimas užtruko: 41102 ms
