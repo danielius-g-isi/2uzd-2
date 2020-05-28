@@ -32,4 +32,4 @@ Galutinė programos versija. Sukurta dokumentacija.
 ## Opublikuotos versijos:
 - [v1.1](https://github.com/danielius-g-isi/2uzd-2/releases/tag/V1.1)
 - [v1.2](https://github.com/danielius-g-isi/2uzd-2/releases/tag/v1.2)
-- [v2.0](https://github.com/danielius-g-isi/2uzd/releases/tag/v1.0)
+- [v2.0](https://github.com/danielius-g-isi/2uzd-2/releases/tag/v2.0)
