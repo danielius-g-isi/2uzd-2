@@ -26,7 +26,7 @@ Struktūros pakeistos klasėmis. Atlikti greičio matavimai nustatyti greičio p
 grade klasei realizuotas kontstuktorius ir destruktorius.
 
 ## [v2.0](https://github.com/danielius-g-isi/2uzd-2/tree/v2.0)
-Galutinė programos versija. Sukurta dokumentacija.
+Galutinė programos versija. Sukurta dokumentacija naudojant Doxygen.
 
 
 ## Opublikuotos versijos:
